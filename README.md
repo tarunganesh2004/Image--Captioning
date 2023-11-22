@@ -65,7 +65,7 @@ python -m streamlit run main.py
 This project has been licensed under MIT License. Please see the [LICENSE](LICENSE) file for more details.
 
 ## Authors
-[Vangipuram Srinivasa Sarath Chandra](https://github.com/Sarath191181208)
+[Tarun Ganesh](https://github.com/tarunganesh2004)
 
 
 <!-- Markdown liks and Tags -->
