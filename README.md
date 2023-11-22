@@ -16,7 +16,7 @@ Quick Navigation
 This project uses `DenseNet201`, `CNN` and `LSTM` to generate captions for images. The model is trained on the [Flickr8k](https://www.kaggle.com/adityajn105/flickr8k) dataset. The model is trained on a GPU for 20 epochs. The model is then tested on a few images from the test dataset. The model is able to generlize well and generate captions for images it has never seen before.
 
 ## Demo 
-![Screenshot](assets/screenshot.png)
+![Screenshot](assets/pdp6.jpg)
 
 ## Dataset
 The dataset used for this project is the [Flickr8k](https://www.kaggle.com/adityajn105/flickr8k) dataset. The dataset contains 8000 images. The dataset is split into 6000 images for training, 1000 images for validation and 1000 images for testing. The dataset also contains 5 captions for each image. The dataset is preprocessed and the captions are cleaned before training the model.
