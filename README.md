@@ -40,7 +40,7 @@ The `LSTM` model is used to generate captions for the images. The model is train
 
 1. Clone the repository
 ```bash 
-git clone https://github.com/Sarath191181208/image_captioning.git
+git clone https://github.com/tarunganesh2004/Image--Captioning.git
 ```
 
 2. Install the requirements
@@ -50,12 +50,13 @@ pip install -r requirements.in
 
 3. Run the project
 ```bash
-python -m streamlit run main.py
+python flask_wrapper.py
 ```
 
 ## Technologies used
 [![Python][python-shield]][python-url]
-[![Streamlit][streamlit-shield]][streamlit-url]
+[![Flask](https://img.shields.io/badge/Flask-Web%20Framework-green?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+
 [![Tensorflow][tensorflow-shield]][tensorflow-url]
 [![DenseNet201][densenet201-shield]][densenet201-url]
 [![LSTM][lstm-shield]][lstm-url]
@@ -65,14 +66,15 @@ python -m streamlit run main.py
 This project has been licensed under MIT License. Please see the [LICENSE](LICENSE) file for more details.
 
 ## Authors
-[Tarun Ganesh](https://github.com/tarunganesh2004)
+- [Tarun Ganesh](https://github.com/tarunganesh2004)
+- [Sri Hari](https://github.com/gtbSrihari)
 
 
 <!-- Markdown liks and Tags -->
 [python-shield]: https://img.shields.io/badge/Python-3.8.5-blue?style=for-the-badge&logo=python
 [python-url]: https://www.python.org/downloads/release/python-385/
-[streamlit-shield]: https://img.shields.io/badge/Streamlit-0.84.2-blue?style=for-the-badge&logo=streamlit
-[streamlit-url]: https://streamlit.io/
+[flask-shield]: https://img.shields.io/badge/Flask-Web%20Framework-green?style=flat&logo=flask&logoColor=white
+[flask-url]: https://flask.palletsprojects.com/
 [tensorflow-shield]: https://img.shields.io/badge/Tensorflow-2.5.0-blue?style=for-the-badge&logo=tensorflow
 [tensorflow-url]: https://www.tensorflow.org/
 [densenet201-shield]: https://img.shields.io/badge/DenseNet201-blue?style=for-the-badge&logo=tensorflow
