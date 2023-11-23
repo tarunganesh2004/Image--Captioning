@@ -66,8 +66,9 @@ python flask_wrapper.py
 This project has been licensed under MIT License. Please see the [LICENSE](LICENSE) file for more details.
 
 ## Authors
-- [Tarun Ganesh](https://github.com/tarunganesh2004)
 - [Sri Hari](https://github.com/gtbSrihari)
+- [Tarun Ganesh](https://github.com/tarunganesh2004)
+
 
 
 <!-- Markdown liks and Tags -->
