@@ -40,7 +40,7 @@ The `LSTM` model is used to generate captions for the images. The model is train
 
 1. Clone the repository
 ```bash 
-git clone https://github.com/tarunganesh2004/Image--Captioning.git
+git clone https://github.com/tarunganesh2004/Image-Captioning.git
 ```
 
 2. Install the requirements
