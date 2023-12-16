@@ -62,8 +62,7 @@ python flask_wrapper.py
 [![LSTM][lstm-shield]][lstm-url]
 [![CNN][cnn-shield]][cnn-url]
 
-## License
-This project has been licensed under MIT License. Please see the [LICENSE](LICENSE) file for more details.
+
 
 ## Authors
 - [Sri Hari](https://github.com/gtbSrihari)
